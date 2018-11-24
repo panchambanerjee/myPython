@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="081552d1-6531-436b-8d53-5f1878983cd7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse_word_order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prime_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Prime_numbers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Prime_numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prime_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            <state relative-caret-position="312">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse_word_order.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Reverse_word_order.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -51,6 +59,7 @@
         <option value="$PROJECT_DIR$/Fibonacci_O_variations.py" />
         <option value="$PROJECT_DIR$/Fibonacci_variations.py" />
         <option value="$PROJECT_DIR$/Prime_numbers.py" />
+        <option value="$PROJECT_DIR$/Reverse_word_order.py" />
       </list>
     </option>
   </component>
@@ -60,7 +69,9 @@
     <option name="width" value="1400" />
     <option name="height" value="766" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -97,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Prime_numbers">
+  <component name="RunManager" selected="Python.Reverse_word_order">
     <configuration name="Fibonacci_variations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,12 +145,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Reverse_word_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse_word_order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.Fibonacci_variations" />
       <item itemvalue="Python.Prime_numbers" />
+      <item itemvalue="Python.Reverse_word_order" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse_word_order" />
         <item itemvalue="Python.Prime_numbers" />
         <item itemvalue="Python.Fibonacci_variations" />
       </list>
@@ -160,17 +191,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="766" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5014728" side_tool="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.4992636" weight="0.32884902" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49852726" visible="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49852726" weight="0.32884902" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -200,8 +232,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prime_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state relative-caret-position="312">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse_word_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
