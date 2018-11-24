@@ -23,6 +23,16 @@ def prime_2(num):  # Reject candidates up to square root of number
     return is_prime
 
 
+def generate_primes(n):
+
+    prime_list = []
+    for i in range(1, n+1):
+        if prime_1(i):
+            prime_list.append(i)
+
+    return prime_list
+
+
 def test_prime():
     n1 = 10
     n2 = 17
@@ -36,3 +46,6 @@ def test_prime():
 
 if __name__ == "__main__":
     test_prime()
+
+    print(generate_primes(20))
+
