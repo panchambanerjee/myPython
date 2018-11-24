@@ -22,6 +22,7 @@ def fibonacci_3(n):  # O(1) -- Closed form solution
     return int(math.floor(phi**n/sq5))
 
 
+
 def test_fib():
     n = 10
     assert(fibonacci_1(n) == 55)
